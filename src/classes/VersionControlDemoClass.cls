@@ -3,6 +3,7 @@ public with sharing class VersionControlDemoClass {
 		
 		//Line#1 added by : 
 		//Line#2
+		//Line#3
 
 		String UserOracleAccountNumber = '41569887';
 		String UserEmailAddress1 = 'astroid@moonspace.com';
