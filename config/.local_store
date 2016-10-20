@@ -1,14 +1,16 @@
 {
     "VersionControlDemoClass.cls": {
-        "createdById": "00561000001aZEKAA2",
-        "createdByName": "Vijay Yerabothu",
-        "createdDate": "2016-10-20T21:47:51.000Z",
-        "fileName": "unpackaged/classes/VersionControlDemoClass.cls",
-        "fullName": "VersionControlDemoClass",
         "id": "01p5B00000096oBQAQ",
+        "name": "VersionControlDemoClass",
+        "createdDate": "2016-10-20T21:47:51.000+0000",
+        "createdById": "00561000001aZEKAA2",
+        "namespacePrefix": null,
         "lastModifiedById": "00561000001aZEKAA2",
+        "lastModifiedDate": "2016-10-20T22:13:45.000+0000",
+        "fullName": "VersionControlDemoClass",
+        "fileName": "unpackaged/classes/VersionControlDemoClass.cls",
+        "createdByName": "Vijay Yerabothu",
         "lastModifiedByName": "Vijay Yerabothu",
-        "lastModifiedDate": "2016-10-20T21:52:46.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
