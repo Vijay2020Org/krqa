@@ -3365,6 +3365,28 @@
                 "select": false
             },
             {
+                "createdById": "00561000001aZEKAA2",
+                "createdByName": "Vijay Yerabothu",
+                "createdDate": "2016-10-20T21:47:51.000Z",
+                "fileName": "classes/VersionControlDemoClass.cls",
+                "fullName": "VersionControlDemoClass",
+                "id": "ApexClass.VersionControlDemoClass",
+                "lastModifiedById": "00561000001aZEKAA2",
+                "lastModifiedByName": "Vijay Yerabothu",
+                "lastModifiedDate": "2016-10-20T21:52:46.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "VersionControlDemoClass",
+                "checked": false,
+                "text": "VersionControlDemoClass",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            },
+            {
                 "createdById": "00561000001ZnJ5AAK",
                 "createdByName": "Nick Whitney",
                 "createdDate": "2016-05-13T13:03:17.000Z",
