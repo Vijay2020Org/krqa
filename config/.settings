@@ -1,0 +1,17 @@
+{
+    "projectName": "KrQa",
+    "username": "vijay.yerabothu@kronos.com.qa",
+    "id": "7f0d83d0-9560-11e6-b93c-4b1f32dd4d71",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://kronos--QA.cs52.my.salesforce.com",
+    "workspace": "C:\\mavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

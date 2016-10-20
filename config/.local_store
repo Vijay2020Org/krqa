@@ -1,0 +1,32 @@
+{
+    "AppsCommunityUserNameController.cls": {
+        "createdById": "0055B000000I8ATQA0",
+        "createdByName": "Sai Raj",
+        "createdDate": "2016-08-04T21:28:13.000Z",
+        "fileName": "unpackaged/classes/AppsCommunityUserNameController.cls",
+        "fullName": "AppsCommunityUserNameController",
+        "id": "01p5B0000004SLFQA2",
+        "lastModifiedById": "0055B000000I8ATQA0",
+        "lastModifiedByName": "Sai Raj",
+        "lastModifiedDate": "2016-08-11T20:17:33.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "VersionControlDemoClass.cls": {
+        "id": "01p5B00000096oBQAQ",
+        "name": "VersionControlDemoClass",
+        "createdDate": "2016-10-20T21:47:51.000+0000",
+        "createdById": "00561000001aZEKAA2",
+        "namespacePrefix": null,
+        "lastModifiedById": "00561000001aZEKAA2",
+        "lastModifiedDate": "2016-10-20T21:52:46.000+0000",
+        "fullName": "VersionControlDemoClass",
+        "fileName": "unpackaged/classes/VersionControlDemoClass.cls",
+        "createdByName": "Vijay Yerabothu",
+        "lastModifiedByName": "Vijay Yerabothu",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
